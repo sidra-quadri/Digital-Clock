@@ -10,5 +10,5 @@
 Add your screenshot here 👇  
 
 ```html
-<!-- Upload your image (e.g., clock-preview.png) and place it in the same folder -->
-<img src="clock-preview.png" alt="Dreamy Digital Clock Preview" width="600">
+
+<img src="Screenshot (46).png" alt="Dreamy Digital Clock Preview" width="600">
